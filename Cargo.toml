@@ -1,6 +1,6 @@
 [package]
 name = "crate-version-experiment"
-version = "0.3.2-branch-name.1"
+version = "0.3.2-branch-name.2"
 description = "Experimenting with releases"
 authors = ["Fluence Labs"]
 readme = "Readme.md"
