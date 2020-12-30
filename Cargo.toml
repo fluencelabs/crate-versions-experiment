@@ -1,0 +1,20 @@
+[package]
+name = "crate-version-experiment"
+version = "0.2.13"  # remember to update html_root_url
+description = "Experimenting with releases"
+authors = ["Fluence Labs"]
+readme = "Readme.md"
+license = "Apache-2.0"
+edition = "2018"
+
+[package.metadata.docs.rs] # https://docs.rs/about
+all-features = true
+
+[lib]
+path = "src/lib.rs"
+
+[workspace]
+members = [
+  "crates/inner-crate",
+  "top-crate"
+]

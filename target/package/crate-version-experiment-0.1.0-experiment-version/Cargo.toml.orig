@@ -1,0 +1,11 @@
+[package]
+name = "crate-version-experiment"
+version = "0.1.0-experiment-version"
+authors = ["folex <0xdxdy@gmail.com>"]
+edition = "2018"
+description = "Experimenting with semver on crates.io"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

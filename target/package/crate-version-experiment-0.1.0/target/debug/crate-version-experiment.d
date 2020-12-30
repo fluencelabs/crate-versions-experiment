@@ -1,0 +1,1 @@
+/Users/folex/Development/crate-version-experiment/target/package/crate-version-experiment-0.1.0/target/debug/crate-version-experiment: /Users/folex/Development/crate-version-experiment/target/package/crate-version-experiment-0.1.0/src/main.rs
