@@ -1,1 +1,0 @@
-/Users/folex/Development/crate-version-experiment/target/package/release-experiment-inner-crate-0.1.1/target/debug/librelease_experiment_inner_crate.rlib: /Users/folex/Development/crate-version-experiment/target/package/release-experiment-inner-crate-0.1.1/src/lib.rs
