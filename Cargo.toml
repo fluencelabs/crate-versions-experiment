@@ -1,6 +1,6 @@
 [package]
 name = "crate-version-experiment"
-version = "0.2.13"  # remember to update html_root_url
+version = "0.2.14"
 description = "Experimenting with releases"
 authors = ["Fluence Labs"]
 readme = "Readme.md"
