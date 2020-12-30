@@ -1,6 +1,6 @@
 [package]
 name = "release-experiment-top-crate"
-version = "0.1.0-experiment-version"
+version = "0.3.0-experiment-version"
 authors = ["folex <0xdxdy@gmail.com>"]
 edition = "2018"
 description = "Experimenting with semver on crates.io"

@@ -10,4 +10,4 @@ version = "0.1.0"
 
 [[package]]
 name = "release-experiment-top-crate"
-version = "0.1.0-experiment-version"
+version = "0.3.0-experiment-version"
