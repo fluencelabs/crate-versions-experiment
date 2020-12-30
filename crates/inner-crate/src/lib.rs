@@ -1,3 +1,3 @@
 pub fn inner() -> String {
-    "inner".to_string()
+    "inner MUCH CHANGE".to_string()
 }
