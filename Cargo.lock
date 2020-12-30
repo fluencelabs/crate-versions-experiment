@@ -6,7 +6,7 @@ version = "0.2.13"
 
 [[package]]
 name = "release-experiment-inner-crate"
-version = "0.1.0"
+version = "0.1.1"
 
 [[package]]
 name = "release-experiment-top-crate"
