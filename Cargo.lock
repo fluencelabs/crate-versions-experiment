@@ -2,11 +2,11 @@
 # It is not intended for manual editing.
 [[package]]
 name = "crate-version-experiment"
-version = "0.3.2-branch-name.0"
+version = "0.3.2-branch-name.1"
 
 [[package]]
 name = "release-experiment-inner-crate"
-version = "0.3.2-branch-name.0"
+version = "0.3.2-branch-name.1"
 
 [[package]]
 name = "release-experiment-top-crate"
