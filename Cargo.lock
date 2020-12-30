@@ -2,7 +2,7 @@
 # It is not intended for manual editing.
 [[package]]
 name = "crate-version-experiment"
-version = "0.2.14"
+version = "0.2.15"
 
 [[package]]
 name = "release-experiment-inner-crate"
